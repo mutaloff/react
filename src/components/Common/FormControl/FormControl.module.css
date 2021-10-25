@@ -1,0 +1,17 @@
+.txtArea{
+    width: 40%;
+    height: 50px;
+    background-color: whitesmoke;
+    outline: none;
+    border-radius: 20px;
+    text-indent: 8px;
+}
+
+.error{
+    border: 2px red solid;
+}
+.errorText{
+    color: red;
+    margin-bottom: 10px;
+    font-size: 12px;
+}

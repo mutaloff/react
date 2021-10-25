@@ -1,0 +1,8 @@
+.noStatus{
+    font-weight: lighter;
+}
+.noStatus:hover{
+    font-weight: lighter;
+    color: grey;
+    cursor: pointer;
+}

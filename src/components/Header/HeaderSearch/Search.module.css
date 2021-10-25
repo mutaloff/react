@@ -1,0 +1,14 @@
+.Search{
+    display: flex;
+    align-items: center;
+    grid-column: 3;
+    justify-content: space-around;
+}
+
+.SearchInput{
+    height: 40%;
+    border-radius: 12px;
+    vertical-align: middle;
+    outline: none;
+    text-indent: 8px;
+}

@@ -1,0 +1,17 @@
+.HeaderLink{
+  display: flex;
+  justify-content: space-around;
+  grid-column: 2;
+}
+
+.HeaderLinkItem{
+  font-size: 28px;
+  padding: 10px;
+  color: rgba(233, 255, 254, 0.61);
+  text-decoration: none;
+}
+
+.HeaderLinkItem:hover{
+  color: black;
+  cursor: pointer;
+}

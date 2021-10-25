@@ -1,0 +1,9 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    background-color: rgba(141, 129, 128, 0.329);
+    margin-left: 10px;
+    width: 15%;
+}

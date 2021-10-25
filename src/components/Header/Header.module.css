@@ -1,0 +1,6 @@
+.header{
+    background-color: rgba(117, 104, 119, 0.959);
+    display: grid;
+    grid-template-columns: 1fr 1.75fr 0.6fr 0.4fr;
+    justify-content: space-around;
+}

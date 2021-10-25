@@ -1,0 +1,44 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 0.5fr 3.5fr 1fr;
+    padding: 10px;
+}
+.btn{
+    border: 0;
+    background-color: transparent;
+    font-size: 16px;
+}
+
+.btn:hover{
+    color: rgba(155, 18, 18, 0.678);
+}
+
+.main{
+    background-color: rgba(128, 128, 128, 0.3);
+}
+
+.img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.selectedPage{
+    font-weight: bold;
+    color: rgb(65, 54, 54);
+    font-size: larger;
+}
+
+.pages{
+    cursor: pointer;
+}
+.pages:hover{
+    padding-left: 4px;
+    padding-right: 4px;
+    color:rgb(53, 50, 50);
+}
+
+.pagesBar{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}

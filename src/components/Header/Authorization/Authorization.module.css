@@ -1,0 +1,21 @@
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loginText{
+    font-size: 22px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.logout{
+    font-size: smaller;
+    padding: 10px;
+    cursor: pointer;
+}
+.logout:hover{
+    color: whitesmoke;
+}
+.noDisplay{
+    display: none;
+}
